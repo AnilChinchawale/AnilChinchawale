@@ -2,7 +2,7 @@
   <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinFinOrg/Official-XinFinOrg/refs/heads/master/assets/images/xdc-network-logo.svg">
-      <img width="300" alt="XDC Network Logo in light and dark modes." src="https://raw.githubusercontent.com/XinFinOrg/Official-XinFinOrg/refs/heads/master/assets/images/xdc-network-logo-white.svg">
+      <img width="300" alt="XDC Network Logo in light and dark modes." src="https://raw.githubusercontent.com/XinFinOrg/Official-XinFinOrg/refs/heads/master/assets/images/xdc-network-logo.svg">
     </picture>
   </p>
 </br>
