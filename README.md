@@ -26,7 +26,7 @@
 Building the future of **enterprise blockchain infrastructure** at XDC Network. Leading protocol development for one of the most energy-efficient Layer 1 networks powering **trade finance** and **real-world asset tokenization**.
 
 ```
-🏗️  Architecting XDPoS 2.0 consensus mechanisms
+🏗️  Adpat XDC 2.0 consensus mechanisms
 ⚡  Optimizing node performance for enterprise-grade reliability  
 🔐  Designing secure, scalable blockchain infrastructure
 🌍  Bridging traditional finance with decentralized systems
